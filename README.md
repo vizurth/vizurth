@@ -13,8 +13,8 @@
 
 - 📫 How to reach me: <br>
 [![Telegram](https://img.shields.io/badge/@timurghub-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/timurghub)
-[![Gmail](https://img.shields.io/badge/timrsamara@gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](timrsamara@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/TimurAdiatullin/)
+[![Gmail](https://img.shields.io/badge/timrsamara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](timrsamara@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/TimurAdiatullin/)
 
 ### ⚡ Languages & tools:
 <div align="center">
