@@ -1,22 +1,19 @@
-# Hi there👋
+# Hi, I’m Timur Adiatullin 👋
 
-#### I'm a Golang Developer🚀
-- 🚀 I'm Timur, 18 y.o.
-- 🛠️ I'm passionate about backend, algorithms
-- 🎓 Studying **Math and Computer Science** at SPBSTU  
-- 🧠 I'm currently learning <br>
+#### Golang Developer 🚀  
+
+- 👨‍💻 18 y.o. backend enthusiast  
+- 🛠️ Focused on backend development and algorithms 
+- 🎓 Student of **Math and Computer Science** at SPBSTU  
+- 📚 Currently exploring:  
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
   ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-  
 
-- 📫 How to reach me: <br>
-[![Telegram](https://img.shields.io/badge/@timurghub-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/timurghub)
-[![Gmail](https://img.shields.io/badge/timrsamara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](timrsamara@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/TimurAdiatullin/)
 
-### ⚡ Languages & tools:
+
+### ⚡ Languages & Tools  
 <div align="center">
   
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -29,5 +26,9 @@
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 </div>
 
-![](https://komarev.com/ghpvc/?username=vizurth)
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vizurth.vizurth) -->
+### 📫 How to reach me  
+[![Telegram](https://img.shields.io/badge/@timurghub-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/timurghub)
+[![Gmail](https://img.shields.io/badge/timrsamara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:timrsamara@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/TimurAdiatullin/)
+
+![](https://komarev.com/ghpvc/?username=vizurth) <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vizurth.vizurth) -->
