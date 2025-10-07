@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me  
 [![Telegram](https://img.shields.io/badge/@timurghub-2CA5E0?&style=flat-square&logo=telegram&logoColor=white)](https://t.me/timurghub)
-[![Gmail](https://img.shields.io/badge/timrsamara@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:timrsamara@gmail.com)
+[![Gmail](https://img.shields.io/badge/adiatullin.timur123@yandex.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adiatullin.timur123@yandex.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/TimurAdiatullin/)
 
 ![](https://komarev.com/ghpvc/?username=vizurth) <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vizurth.vizurth) -->
