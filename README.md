@@ -2,8 +2,8 @@
 
 #### Golang Developer 🚀  
 
-- 👨‍💻 18 y.o. backend enthusiast  
-- 🛠️ Focused on backend development and algorithms 
+- 👨‍💻 19 y.o. backend and ML enthusiast
+- 🛠️ Focused on backend development, ML and algorithms 
 - 🎓 Student of **Math and Computer Science** at SPBSTU  
 - 📚 Currently exploring:  
   ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
