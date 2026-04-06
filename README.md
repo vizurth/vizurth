@@ -8,8 +8,7 @@
 - 📚 Currently exploring:  
   ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-  [![Java](https://img.shields.io/badge/java-%231a1a2e.svg?style=for-the-badge&logo=java&logoColor=white)](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ### ⚡ Languages & Tools  
