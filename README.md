@@ -1,10 +1,9 @@
-# Hi, I’m Timur Adiatullin 👋
+# Hi👋
 
 #### Golang Developer 🚀  
 
 - 👨‍💻 19 y.o. backend and ML enthusiast
 - 🛠️ Focused on backend development, ML and algorithms 
-- 🎓 Student of **Math and Computer Science** at SPBSTU  
 - 📚 Currently exploring:  
   ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
