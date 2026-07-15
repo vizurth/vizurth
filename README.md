@@ -3,6 +3,7 @@
 #### Golang Developer 🚀  
 
 - 👨‍💻 19 y.o. backend and ML enthusiast
+- VK intern
 - 🛠️ Focused on backend development, ML and algorithms 
 - 📚 Currently exploring:  
   ![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
