@@ -1,6 +1,7 @@
 # Hi👋
 
-#### Golang Developer ![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)  
+#### Golang Developer
+  ![VK](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white) 
 
 - 👨‍💻 19 y.o. backend and ML enthusiast
 - 🛠️ Focused on backend development, ML and algorithms 
